@@ -1,63 +1,61 @@
-# Fernando Sánchez Moraga
+<h1 align="center">Hi, I'm Fernando 👋</h1>
 
-**Computer Engineer · Data, SQL & Infrastructure**
-Alajuela, Costa Rica
+<p align="center">
+  <b>Computer Engineer · Data, SQL & Infrastructure</b><br>
+  <i>Curious by nature, careful with details, always learning something new ✨</i>
+</p>
 
-I'm a Computer Engineering graduate (Universidad de Costa Rica) with hands-on experience in data migration, ETL monitoring, incident resolution and technical documentation. I'm currently focused on Linux and infrastructure administration.
-
-📫 [LinkedIn](https://www.linkedin.com/in/fernandofsm/) · [nano.sanfs@gmail.com](mailto:nano.sanfs@gmail.com)
+<p align="center">
+  📍 Alajuela, Costa Rica
+</p>
 
 ---
 
-## What I work with
+## 👨‍💻 About Me
 
-## Tech stack
+I'm a Computer Engineer from Universidad de Costa Rica. I've worked on large-scale data migration, ETL monitoring and incident resolution, and I enjoy digging into problems until I find the root cause.
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+I like keeping things organized, documenting what I learn, and working with people from different teams to get things done. Right now I'm growing my skills in Linux and infrastructure administration. 🐧
 
-## Experience
+Currently interested in:
 
-**Data Migration and BI Development Analyst — ALEGA S.A.** (Poder Judicial, SIAGPJ project) · Jul 2025 – Jul 2026
-Data validation and cleansing for a large system migration, SQL Server stored procedures and Linked Servers, ETL monitoring, and incident investigation through a ticketing system.
+- 🐧 Linux & Infrastructure
+- 🗄️ Databases & SQL
+- 🔄 ETL & Data Migration
+- 🚨 Incident Management & Monitoring
+- 🌐 Full-Stack Development
 
-## Projects
+## 🛠 Tech Stack
+
+[![Tech Stack](https://skillicons.dev/icons?i=python,java,cs,ts,js,react,vue,mysql,postgres,sqlite,linux,git,github,azure&perline=7)](https://skillicons.dev)
+
+Also working with: **SQL Server · Oracle · T-SQL · Power BI · Azure DevOps · Agile / Scrum**
+
+## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [FunRead](LINK_AL_REPO) | Educational platform where teachers publish books and students read them and complete assignments. Team of 5+. | Python, React, MySQL |
-| [NOMBRE_DEL_REPO_LINUX](LINK_AL_REPO) | DESCRIPCIÓN_EN_UNA_LÍNEA | Bash, Linux |
+| 📚 [FunRead](LINK_AL_REPO) | Educational platform where teachers publish books and students read them and complete assignments. Team project (5+ people). | Python, React, MySQL |
+| 🐧 [NOMBRE_REPO_LINUX](LINK_AL_REPO) | DESCRIPCIÓN_EN_UNA_LÍNEA | Linux, Bash |
 
-## Currently
+## 💼 Experience
 
-- Strengthening my Linux and infrastructure skills (SSH, services, backups, monitoring)
-- Documenting what I learn in my repositories
+**Data Migration and BI Development Analyst** — ALEGA S.A. · *Poder Judicial (SIAGPJ project)* · Jul 2025 – Jul 2026
+
+Data validation and cleansing for a system migration, SQL Server stored procedures and Linked Servers, ETL monitoring, and incident investigation through a ticketing system.
+
+## 🎓 Education & Learning
+
+- 🎓 Bachelor's Degree in Business Informatics — Universidad de Costa Rica
+- 📚 English Program — American English Academy (in progress)
+
+## 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernandofsm/)
+- ✉️ [nano.sanfs@gmail.com](mailto:nano.sanfs@gmail.com)
 
 ---
 
-*Open to opportunities in infrastructure, data and software development in Costa Rica.*
-
-<!--
-**FernandoSZM/FernandoSZM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <i>Always learning. Always improving. 💙</i>
+</p>
