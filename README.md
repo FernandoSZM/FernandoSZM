@@ -1,13 +1,10 @@
-<h1 align="center">Hi, I'm Fernando 👋</h1>
+<h1 align="left">Fernando Sánchez Moraga</h1>
 
-<p align="center">
+<p align="left">
   <b>Computer Engineer · Data, SQL & Infrastructure</b><br>
-  <i>Curious by nature, careful with details, always learning something new ✨</i>
 </p>
 
-<p align="center">
-  📍 Alajuela, Costa Rica
-</p>
+
 
 ---
 
@@ -36,7 +33,7 @@ Also working with: **SQL Server · Oracle · T-SQL · Power BI · Azure DevOps �
 | Project | Description | Stack |
 |---|---|---|
 | 📚 [FunRead](LINK_AL_REPO) | Educational platform where teachers publish books and students read them and complete assignments. Team project (5+ people). | Python, React, MySQL |
-| 🐧 [NOMBRE_REPO_LINUX](LINK_AL_REPO) | DESCRIPCIÓN_EN_UNA_LÍNEA | Linux, Bash |
+
 
 ## 💼 Experience
 
@@ -47,7 +44,7 @@ Data validation and cleansing for a system migration, SQL Server stored procedur
 ## 🎓 Education & Learning
 
 - 🎓 Bachelor's Degree in Business Informatics — Universidad de Costa Rica
-- 📚 English Program — American English Academy (in progress)
+- 📚 English Program — American English Academy 
 
 ## 📫 Connect with Me
 
